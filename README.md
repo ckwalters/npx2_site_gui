@@ -1,3 +1,2 @@
 # npx2_site_gui
-make a neuropixels 2.0 multi-shank imro table with arbitrary sites for recording 
-recommended to load a pre-existing imro table that is close to what you want 
+Make a neuropixels 2.0 multi-shank imro table with arbitrary sites for recording. I recommend loading a pre-existing imro table (e.g. from SGLX) that is close to what you want.
